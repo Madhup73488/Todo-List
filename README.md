@@ -32,13 +32,9 @@ You can view a live demo of the Todo List Web App [here](#).
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 1](/Screenshots/Screenshot1.png)
+![Screenshot 2](/Screenshots/Screenshot2.png)
 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
