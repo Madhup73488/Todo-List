@@ -31,9 +31,11 @@ To use the Todo List Web App, simply follow these steps:
 You can view a live demo of the Todo List Web App [here](#).
 
 ## Screenshots
+### default page after loading
+![Screenshot 1](/Screenshots/Screenshot2.png)
 
-![Screenshot 1](/Screenshots/Screenshot1.png)
-![Screenshot 2](/Screenshots/Screenshot2.png)
+### page after adding the todo items to the list
+![Screenshot 2](/Screenshots/Screenshot1.png)
 
 ## Contributing
 
